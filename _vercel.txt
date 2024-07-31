@@ -1,0 +1,1 @@
+vc-domain-verify=ungemini.linkpc.net,671b6a930ce4eb68a972
